@@ -1,0 +1,57 @@
+#contacts{
+    height:100%;
+}
+.contact-section {
+    background-color: white;
+    padding: 40px;
+    text-align: center;
+    font-size:25px;
+  }
+
+  .contact-box {
+    display: inline-block;
+    width: 250px;
+    height: 180px;
+    background-color: white;
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.3);
+    margin: 20px;
+    text-align: left;
+    padding: 10px;
+    vertical-align: middle;
+    border-radius: 10px;
+  }
+
+  .contact-box h3 {
+    font-size: 1.2rem;
+    margin-bottom: 10px;
+  }
+
+  .contact-box p {
+    font-size: 1rem;
+    margin-bottom: 10px;
+  }
+
+  .contact-box img {
+      float :left;
+    width: 65px;
+    height: 65px;
+    margin-right: 10px;
+    vertical-align: middle;
+  }
+  .text-container {
+  position: relative;
+  top: 25px;
+  left: 160px;
+}
+
+  .bottom-section {
+    background-color: #003366;
+    color: white;
+    text-align: center;
+    padding: 30px;
+  }
+
+  .social-media-icons {
+    font-size: 15px;
+    margin: 0 10px;
+  }
